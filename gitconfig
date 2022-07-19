@@ -6,3 +6,5 @@
 	excludesFile = ~/.gitignore
 [credential]
 	helper = libsecret
+[init]
+	defaultBranch = main
