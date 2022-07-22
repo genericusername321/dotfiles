@@ -10,6 +10,7 @@
     ~/.bashrc: bashrc
     ~/.gitconfig: gitconfig
     ~/.gitignore: gitignore_global
+    ~/.zshrc: zshrc
 
 
 - create:
