@@ -7,6 +7,7 @@ Plug 'psf/black', { 'branch': 'stable' }
 Plug 'scrooloose/nerdtree'
 Plug 'scrooloose/syntastic'
 Plug 'vim-airline/vim-airline'
+Plug 'preservim/nerdtree'
 
 call plug#end()
 
